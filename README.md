@@ -81,12 +81,11 @@ This provides a balanced difficulty level while keeping the logic readable.
 
 ---
 
-## 📸 Preview
+##w
 
-> Add a screenshot or GIF here for better presentation
+> GitHub live link to Preview
 
-```md
-![Tic Tac Toe Preview](screenshot.png)
+* ** 📸 Preview:** [Tic-Tac-Toe](https://sakibdeveloper999.github.io/tic-tac-toe-game-javaScript-DOM-Project-/)
 ```
 
 ---
